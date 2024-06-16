@@ -1,0 +1,15 @@
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\bin\Debug\net6.0\QTwo.exe
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\bin\Debug\net6.0\QTwo.deps.json
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\bin\Debug\net6.0\QTwo.runtimeconfig.json
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\bin\Debug\net6.0\QTwo.dll
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\bin\Debug\net6.0\QTwo.pdb
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.csproj.AssemblyReference.cache
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.AssemblyInfoInputs.cache
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.AssemblyInfo.cs
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.csproj.CoreCompileInputs.cache
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.dll
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\refint\QTwo.dll
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.pdb
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\QTwo.genruntimeconfig.cache
+E:\Users\annan\source\repos\AssignmentTwo\QTwo\obj\Debug\net6.0\ref\QTwo.dll
