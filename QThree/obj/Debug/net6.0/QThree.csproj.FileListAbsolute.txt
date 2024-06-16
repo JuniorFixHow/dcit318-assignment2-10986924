@@ -1,0 +1,15 @@
+E:\Users\annan\source\repos\AssignmentTwo\QThree\bin\Debug\net6.0\QThree.exe
+E:\Users\annan\source\repos\AssignmentTwo\QThree\bin\Debug\net6.0\QThree.deps.json
+E:\Users\annan\source\repos\AssignmentTwo\QThree\bin\Debug\net6.0\QThree.runtimeconfig.json
+E:\Users\annan\source\repos\AssignmentTwo\QThree\bin\Debug\net6.0\QThree.dll
+E:\Users\annan\source\repos\AssignmentTwo\QThree\bin\Debug\net6.0\QThree.pdb
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.csproj.AssemblyReference.cache
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.AssemblyInfoInputs.cache
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.AssemblyInfo.cs
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.csproj.CoreCompileInputs.cache
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.dll
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\refint\QThree.dll
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.pdb
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\QThree.genruntimeconfig.cache
+E:\Users\annan\source\repos\AssignmentTwo\QThree\obj\Debug\net6.0\ref\QThree.dll
