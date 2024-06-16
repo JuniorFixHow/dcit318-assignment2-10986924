@@ -1,0 +1,15 @@
+E:\Users\annan\source\repos\QOne\bin\Debug\net6.0\QOne.exe
+E:\Users\annan\source\repos\QOne\bin\Debug\net6.0\QOne.deps.json
+E:\Users\annan\source\repos\QOne\bin\Debug\net6.0\QOne.runtimeconfig.json
+E:\Users\annan\source\repos\QOne\bin\Debug\net6.0\QOne.dll
+E:\Users\annan\source\repos\QOne\bin\Debug\net6.0\QOne.pdb
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.csproj.AssemblyReference.cache
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.AssemblyInfoInputs.cache
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.AssemblyInfo.cs
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.csproj.CoreCompileInputs.cache
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.dll
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\refint\QOne.dll
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.pdb
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\QOne.genruntimeconfig.cache
+E:\Users\annan\source\repos\QOne\obj\Debug\net6.0\ref\QOne.dll
